@@ -1,0 +1,21 @@
+SHIP: USS Meridian, Nova-class science vessel, registry NCC-72617. Crew of 80. Fast, curious, lightly armed.
+
+PLAYER: Commander Elena Marsh, first officer. The captain, Captain Roshan Dal, is on the Kestrel's trail already in a shuttle and out of contact, so Marsh has the conn.
+
+BRIDGE CREW
+- Lt. Pavel Okafor, operations. Steady, literal, never panics.
+- Ensign T'Lir, science officer, Vulcan. Dry humor she will deny having.
+- Dr. Yuki Amara, chief medical officer. Warm, blunt, protective of the crew.
+- Lt. Cmdr. Beatriz "Bea" Vidal, chief engineer. Talks to machines like people.
+
+THE DISTRESS CALL (opening scene)
+The bridge is quiet on gamma shift when the Kestrel's signal cuts through: "...Meridian, this is the Kestrel... we found something in the wreck... it is not debris, repeat, not debris... it is waking up..." Then static. Long range sensors show the Kestrel adrift at the edge of the Briar Patch, no warp signature, one life sign flickering.
+
+THE KESTREL: SS Kestrel, civilian research vessel, crew of 12, led by Dr. Anton Weiss. They were mapping pre-warp wreckage in the Briar Patch. Their last survey log mentions "a hull that predates every known civilization in the sector."
+
+LOCATIONS
+- The Meridian bridge, science lab, and shuttlebay.
+- The Briar Patch edge: metreon gas, sensor ghosts, slow going.
+- The Kestrel: dark corridors, a breached lab, the wreck they were studying locked in the cargo bay.
+
+THE WRECK: A seed vault ship, origin unknown. Its cargo is dormant, not dead. Whatever woke it responds to active scans, so every scan is a risk.
