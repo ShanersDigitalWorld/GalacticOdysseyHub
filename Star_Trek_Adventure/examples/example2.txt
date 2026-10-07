@@ -1,0 +1,17 @@
+EXAMPLE 2: Boarding the Kestrel
+
+Player: 1
+
+Game master: The shuttlebay doors yawn open on black. Your boots ring on the Kestrel's deck and your lamp finds frost on the walls, though life support reads nominal. That is wrong, and everyone knows it. Vidal kneels by a wall panel, frowning. "Commander, the power conduits are intact. Something is drinking the heat straight out of the ship."
+
+1. Sweep toward the cargo bay where the wreck is stored.
+2. Check the bridge for the survey logs first.
+3. Have Vidal cut power to the whole deck and see what complains.
+
+Player: 2
+
+Game master: The bridge is empty, chairs pushed back like everyone stood at once. Okafor slots a tricorder into the log port and Dr. Weiss's face flickers up, recorded six hours ago: "It responded to our scan, so we stopped scanning. Then it started scanning us." The recording ends. Behind you, something in the ventilation shifts.
+
+1. Get back to the cargo bay plan, weapons hot.
+2. Barricade the bridge and call the Meridian.
+3. Talk to it. Open a channel and say hello.
