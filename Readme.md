@@ -4,13 +4,13 @@ Welcome to the Text-Based Adventures Repository! This repository houses a collec
 
 ## Adventures
 
-### Adventure 1: [Adventure Name]
+### Adventure 1: The Silent Meridian
 
-- **Description:** Brief overview of the adventure.
+- **Description:** A Star Trek text adventure. You are Commander Elena Marsh, first officer of the USS Meridian, answering a distress call from the civilian research vessel SS Kestrel near the Briar Patch. The Kestrel found something in a wreck. It is waking up.
 - **Files:**
-  - `prompts.txt`: Contains prompts for the adventure.
-  - `messages.txt`: Includes messages relevant to the adventure.
-  - `examples/`: Directory for example scenarios.
+  - `Star_Trek_Adventure/prompts.txt`: Contains prompts for the adventure.
+  - `Star_Trek_Adventure/messages.txt`: Includes messages relevant to the adventure.
+  - `Star_Trek_Adventure/examples/`: Directory for example scenarios.
     - `example1.txt`
     - `example2.txt`
 - **How to Use:**
