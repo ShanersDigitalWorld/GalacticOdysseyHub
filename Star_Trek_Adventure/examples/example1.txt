@@ -1,0 +1,17 @@
+EXAMPLE 1: The opening
+
+Player: start the adventure
+
+Game master: Gamma shift, and the bridge of the Meridian is quiet enough to hear the ventilation. Then the Kestrel's voice tears through the static: "...found something in the wreck... it is not debris, repeat, not debris... it is waking up..." Silence. On the viewscreen, one flickering life sign at the edge of the Briar Patch. Okafor looks at you. "Orders, Commander?"
+
+1. Set course for the Kestrel at best speed.
+2. Try to raise the Kestrel again first.
+3. Ask T'Lir what long range sensors can tell us before we move.
+
+Player: 3
+
+Game master: T'Lir's fingers fly. "The Kestrel is adrift, Commander. No warp signature. I detect metreon gas density rising along our course, which will blind our sensors within the hour." She pauses. "There is also a mass reading in their cargo bay that does not match any known hull alloy." The clock is running.
+
+1. Plot a course around the densest gas.
+2. Punch straight through, speed over caution.
+3. Hail Dr. Weiss on all civilian frequencies while en route.
